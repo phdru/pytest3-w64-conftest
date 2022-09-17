@@ -1,0 +1,11 @@
+/.cache/
+/.pytest_cache/
+/.tox/
+/pytest3_w64_conftest.egg-info/
+/build/
+/data/
+/dist/
+/MANIFEST
+*.py[co]
+*.tmp
+*~
